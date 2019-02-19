@@ -4391,14 +4391,14 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-element-table-pagination@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/vue-element-table-pagination/-/vue-element-table-pagination-1.0.5.tgz#268a0759deb66118a878b685eef70324b9fd07a4"
-  integrity sha512-So/RXmv/kixW0yTwD19XNrBAKuOwr7ZakBkHVErtlr7AJRSuaVYg+mt9xYauMnXl2jTVWkt0xEaFDLe5Ptvk7w==
+vue-element-table-pagination@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/vue-element-table-pagination/-/vue-element-table-pagination-1.0.6.tgz#ebb77283a031c9736e3d49dde7ecb074fd07be7b"
+  integrity sha512-PVMmiU/dlseYNfuHhSbJzaDQUzOoacO1fY+ig/N4tBp04BG9MHq1YHaThNsU89UpxloC/qiPNw5n29sszDxzHA==
   dependencies:
     element-ui "^2.5.4"
     vue "^2.6.6"
-    vue-element-table-pagination "^1.0.5"
+    vue-element-table-pagination "^1.0.6"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.1"
