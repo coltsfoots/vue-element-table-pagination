@@ -61,7 +61,7 @@
 						label: '姓名',
 						render: (row, index) => {
 							return (
-								<span style="color: red">{row.name}</span>
+								<span style="color: red">{ row.name }</span>
 							)
 						}
 					},
