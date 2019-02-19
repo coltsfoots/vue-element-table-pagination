@@ -1,6 +1,6 @@
 {
 	"name": "vue-element-table-pagination",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "vue element table-pagination component",
 	"author": "YouJie",
 	"private": false,
@@ -18,16 +18,16 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jayfongs/vue-element-table.git"
+		"url": "git+https://github.com/jayfongs/vue-element-table-pagination.git"
 	},
 	"bugs": {
-		"url": "https://github.com/jayfongs/vue-element-table/issues"
+		"url": "https://github.com/jayfongs/vue-element-table-pagination/issues"
 	},
-	"homepage": "https://github.com/jayfongs/vue-element-table/blob/master/README.md",
+	"homepage": "https://github.com/jayfongs/vue-element-table-pagination",
 	"dependencies": {
 		"element-ui": "^2.5.4",
 		"vue": "^2.6.6",
-		"vue-element-table-pagination": "^1.0.3"
+		"vue-element-table-pagination": "^1.0.4"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.3",
