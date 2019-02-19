@@ -1,6 +1,6 @@
 {
 	"name": "vue-element-table-pagination",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "vue element table-pagination component",
 	"author": "YouJie",
 	"private": false,
@@ -27,7 +27,7 @@
 	"dependencies": {
 		"element-ui": "^2.5.4",
 		"vue": "^2.6.6",
-		"vue-element-table-pagination": "^1.0.4"
+		"vue-element-table-pagination": "^1.0.5"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.3",
